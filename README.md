@@ -1,4 +1,3 @@
-
 # Smart Equipment Diagnostic Circuit
 
 ## Project Overview
@@ -33,4 +32,4 @@ Sensor inputs are read by the Arduino and compared with predefined thresholds. T
 Current and vibration are simulated using potentiometers. Physical industrial motor testing has not been implemented.
 
 ## Simulation
-Tinkercad Circuit Link: [Insert your circuit link here]
+Tinkercad Circuit Link: https://www.tinkercad.com/things/5ku6JFVlJXK-smart-equipment-diagnostic-circuit
