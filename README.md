@@ -33,3 +33,4 @@ Current and vibration are simulated using potentiometers. Physical industrial mo
 
 ## Simulation
 Tinkercad Circuit Link: https://www.tinkercad.com/things/5ku6JFVlJXK-smart-equipment-diagnostic-circuit
+Website link: http://localhost:5174/
